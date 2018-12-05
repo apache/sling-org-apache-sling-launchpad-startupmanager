@@ -35,6 +35,13 @@
     <name>Apache Sling Launchpad Startup Manager</name>
     <description>This module manages the StartupListeners</description>
 
+    <scm>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-startupmanager.git</connection>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-startupmanager.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-launchpad-startupmanager.git</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <sling.java.version>7</sling.java.version>
     </properties>
